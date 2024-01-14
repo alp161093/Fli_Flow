@@ -1,0 +1,19 @@
+
+.MenuBar {
+    -fx-background-color: #01A9DB;
+    -fx-color: #ffffff;
+   
+}
+.botonCerrarSesion {
+    -fx-background-color: rgba(255, 0, 0, 0.5);
+    -fx-font-weight: bold;
+}
+.botonAzul {
+    -fx-background-color: #01A9DB;
+}
+.fieldAzul {
+    -fx-background-color:  transparent;
+    -fx-border-color: #01A9DB;  
+    -fx-border-width: 0px 0px 2px 0px;
+}
+
